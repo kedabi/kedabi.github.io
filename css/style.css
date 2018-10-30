@@ -1,5 +1,5 @@
 <style>
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+@import url('https://fonts.googleapis.com/css?family=VT323');
 </style>
 * {
   margin:0;
@@ -9,7 +9,7 @@
 body {
   background-color: black;
   color: white;
-  font-family: 'Crimson Text', serif;
+  font-family: 'VT323', monospace;
   padding: 20px;
 }
 
