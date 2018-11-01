@@ -21,15 +21,15 @@ iframe {
 .links {
   margin: 0 auto;
   text-align:center;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .links a {
-  color:#e874f7;
+  color:#ff0000;
 }
 
 #instagram {
-  color: rgb(116, 247, 203);
+  color: rgb(255, 0, 0);
   text-align: center;
   margin: 0 auto;
 }
@@ -41,4 +41,8 @@ iframe {
 
 .page {
   text-align: center;
+}
+
+.page {
+  color: #ff0000;
 }
